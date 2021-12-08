@@ -4,7 +4,9 @@ This is a temporary repository to collect feedback about the Hardhat VSCode exte
 
 ## Feedback
 
-If you are part of the beta and want to report an issue, suggest an improvement, ask a question about the extension, or request a new feature, please open an issue. Including clear instructions and example code (preferably a link to a repository) when doing so would be much appreciated.
+If you are part of the beta and want to report an issue, suggest an improvement, ask a question about the extension, or request a new feature, please open an issue. 
+
+Including clear instructions to reproduce your issue and example code (preferably a link to a repository) would be much appreciated.
 
 ## Installing the extension
 
